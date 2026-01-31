@@ -4,5 +4,5 @@ qubit[2] q;
 t q[1];
 t q[1];
 cx q[0], q[1];
-t q[1];
-t q[1];
+tdg q[1];
+tdg q[1];
